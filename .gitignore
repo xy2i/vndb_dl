@@ -1,0 +1,9 @@
+.vscode/
+vndb_dl/__pycache__
+
+build/
+dist/
+
+docs/_templates
+docs/_static
+docs/_build
