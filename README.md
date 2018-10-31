@@ -4,6 +4,8 @@ vndb_dl is a command-line utility that allows to download VN metadata and screen
 
 [Download from PyPi](https://pypi.org/project/vndb-dl/)
 
+Disclaimer: this is a simple web scrapper, done as a learning project. If you want to fetch data from vndb, [use their official API.](https://vndb.org/d11)
+
 ## Usage
 
 vndb_dl can be used from the command line. You can either specify an id to use with the -i option:
