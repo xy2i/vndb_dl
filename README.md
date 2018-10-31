@@ -2,6 +2,8 @@
 
 vndb_dl is a command-line utility that allows to download VN metadata and screenshots from vndb.org.
 
+[Download from PyPi](https://pypi.org/project/vndb-dl/)
+
 ## Usage
 
 vndb_dl can be used from the command line. You can either specify an id to use with the -i option:
